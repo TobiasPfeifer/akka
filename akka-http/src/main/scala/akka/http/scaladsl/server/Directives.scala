@@ -32,6 +32,7 @@ trait Directives extends RouteConcatenation
   with PathDirectives
   with RangeDirectives
   with RespondWithDirectives
+  with ReverseProxyDirective
   with RouteDirectives
   with SchemeDirectives
   with SecurityDirectives
